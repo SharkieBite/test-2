@@ -1,4 +1,6 @@
 ![Catan Banner](banner_(1).jpg)
+
+# Catan Game Simulation
  
 **Project Tracking:** [Kanban Board](LINK)
 
