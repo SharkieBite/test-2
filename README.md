@@ -1,4 +1,4 @@
-![Catan Banner](banner.jpg)
+![Catan Banner](banner_(1).jpg)
 
 # 2AA4 Catan Game Simulation
 
