@@ -6,9 +6,9 @@
 
 **Names:** 
 - Michael Mondaini [@SharkieBite](https://www.github.com/SharkieBite)
-- Sriha Kanthasamy [@sriha-k](https://www.github.com/sriha-k)
-- Sabrina Leung [@BrinaLeung](https://www.github.com/BrinaLeung)
-- Axell Panganiban [@axell8560](https://www.github.com/axell8560)
+- Anas Abdul Aal [@Anasthecode](https://github.com/Anasthecode)
+- Jack Wyand [@jackwyand](https://github.com/jackwyand)
+- Uzair Khan [@UzairKhan12112005](https://github.com/UzairKhan12112005)
 
 **Date:** March 5th, 2026
 **Course:** SFWRENG 2AA4 - Software Design I - Introduction to Software Development
