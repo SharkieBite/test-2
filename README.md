@@ -47,13 +47,13 @@ To fully evaluate the interactive CLI and the live visualizer, you will need to 
 
 Below is the mapping of our axial coordinate system, showing the specific Node IDs and Edge connections used by the engine and visualizer. When using the CLI (e.g., `Build settlement 12`), refer to this map for valid Node IDs.
 
-![Board Layout Map](board_layout.png)
+![Board Layout Map](README/BoardLayout.png)
 
 ## UML Class Diagram
 
 Below is the architectural design of the game engine, highlighting the core patterns used to satisfy the Assignment 2 requirements (including the `VisualizerDecorator`, the Action/Command classes, and the `GameState` machine).
 
-![UML Diagram](README/UMLDigram.png)
+![UML Diagram](README/UMLDigram.jpg)
 - **Rule Enforcement:** Validates all moves, preventing floating settlements, overlapping roads, or building without sufficient resources.
 - **The Robber Mechanism:** Automatically triggers on a dice roll of 7, forcing players with more than 7 cards to discard half their hand, and allowing the roller to steal a random resource from an adjacent player.
 - **Automated Opponents:** Computer agents dynamically assess the board state and randomly execute valid actions until a player reaches the victory point threshold.
