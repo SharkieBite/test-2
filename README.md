@@ -1,8 +1,6 @@
-[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=Anasthecode_2AA4-Catan-Game)](https://sonarcloud.io/summary/new_code?id=Anasthecode_2AA4-Catan-Game)
-
 ![Catan Banner](banner_(1).jpg)
 
-# Catan Game Simulation
+# Catan Game Simulation [![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=Anasthecode_2AA4-Catan-Game)](https://sonarcloud.io/summary/new_code?id=Anasthecode_2AA4-Catan-Game)
  
 
 **Project Tracking:** [Kanban Board](LINK)
