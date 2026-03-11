@@ -1,4 +1,4 @@
-![Catan Banner](banner_(1).jpg)
+![Catan Banner](README/CatanBanner.jpg)
 
 # Catan Game Simulation
  
