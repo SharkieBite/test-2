@@ -1,8 +1,5 @@
 ![Catan Banner](banner_(1).jpg)
-
-# Catan Game Simulation [![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=Anasthecode_2AA4-Catan-Game)](https://sonarcloud.io/summary/new_code?id=Anasthecode_2AA4-Catan-Game)
  
-
 **Project Tracking:** [Kanban Board](LINK)
 
 **Names:** 
@@ -13,6 +10,8 @@
 
 **Date:** March 5th, 2026
 **Course:** SFWRENG 2AA4 - Software Design I - Introduction to Software Development
+
+[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=Anasthecode_2AA4-Catan-Game)](https://sonarcloud.io/summary/new_code?id=Anasthecode_2AA4-Catan-Game)
 
 ---------------------------------------------------------
 
